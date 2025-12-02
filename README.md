@@ -125,7 +125,7 @@
 
 <!-- SNAKE ANIMASYONU -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EnesEfeTokta/EnesEfeTokta/output/snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/YusufcanKadagan04/YusufcanKadagan04/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <!-- FOOTER: Dalgalanan Gökkuşağı (Gradient) -->
