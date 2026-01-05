@@ -18,7 +18,7 @@
 <!-- KUPALAR (Gamification Rank Sistemi) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YusufcanKadagan04&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="YusufcanKadagan04 Trophies" />
+   <img height=200 align="center" src="https://github-profile-trophy-drab.vercel.app?username=YusufcanKadagan04&theme=dracula&no-frame=true&row=1&column=9&margin-w=15&margin-h=15" alt="Yusufcan Kadağan Trophies" />
   </a>
 </div>
 
@@ -39,12 +39,12 @@
       🧬 <b>DNA:</b> C#, Coffee, and RPG Games.<br>
       ⚡ <b>Mission:</b> To optimize performance and maximize player experience.
     </td>
-    <td width="45%" valign="top" align="center">
+     <td width="45%" valign="top" align="center">
        <b>🔥 Activity & Coding Time</b>
        <br><br>
-       <img align="center" src="https://github-readme-stats-thanhnguyxns-projects.vercel.app/api?username=YusufcanKadagan04&show_icons=true&locale=en&theme=dracula&count_private=true" alt="ThanhNguyxn's GitHub Stats" />
+       <img height=200 align="center" src="https://github-readme-stats-theta-pearl.vercel.app/api?username=YusufcanKadagan04&show_icons=true&theme=dracula&hide_title=false&hide_border=true&include_all_commits=false&rank_icon=default&card_width=300" />
        <br>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufcanKadagan04&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=ff79c6&fire=bd93f9&currStreakLabel=ff79c6" height="140" alt="GitHub Streak" />
+       <img height=200 align="center" src="https://github-readme-streak-stats-eight-chi.vercel.app?user=YusufcanKadagan04&theme=dracula&hide_border=true&card_width=783&sideNums=3DDC84&currStreakNum=FF5F5F&sideLabels=417E87&dates=85A4C0&stroke=2C3C2C" />
     </td>
   </tr>
 </table>
